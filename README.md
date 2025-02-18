@@ -50,7 +50,7 @@ System.out.println("\n=== Total Biaya ===");//menampilkan judul untuk total biay
 ystem.out.println("Total yang harus dibayar: Rp" + total);// menampilkan total biaya yang harus di bayar
 else if (pilihan == 4) // mengecek apakah pengguna memilih opso "keluar"
 System.out.println("Terima kasih telah berkunjung ke kafe kami!")// menampilkan pesan perpisahan
-isRunning = false;// mengubah isRunning menjadi false agar loop utama berhenti , sehingga program akan selesai
+isRunning = false;// mengubah isRunning menjadi false agar loop utama berhenti , sehingga program akan selesai.
             
 
                     
